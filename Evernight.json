@@ -200,7 +200,7 @@
     "YELLOW_630": "#FFFFFF",
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF",
-    "RED_430": "#009AFF",
+    "RED_430": "#C41084",
     "PLUM_14": "#222222",
     "PRIMARY_800": "#222222",
     "PLUM_1": "#FFFFFF",
@@ -221,7 +221,7 @@
   },
   "background": {
     "url": "https://i.pinimg.com/1200x/e9/91/57/e99157face9fe27d80accb75fff0d299.jpg",
-    "alpha": 1
+    "alpha": 0.5
   },
   "spec": 2,
   "previewUrl": "",
